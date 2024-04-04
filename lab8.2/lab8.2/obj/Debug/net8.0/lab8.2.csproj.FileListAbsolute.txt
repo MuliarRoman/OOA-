@@ -1,0 +1,14 @@
+C:\learning24\OOAП\lab8.2\lab8.2\bin\Debug\net8.0\lab8.2.exe
+C:\learning24\OOAП\lab8.2\lab8.2\bin\Debug\net8.0\lab8.2.deps.json
+C:\learning24\OOAП\lab8.2\lab8.2\bin\Debug\net8.0\lab8.2.runtimeconfig.json
+C:\learning24\OOAП\lab8.2\lab8.2\bin\Debug\net8.0\lab8.2.dll
+C:\learning24\OOAП\lab8.2\lab8.2\bin\Debug\net8.0\lab8.2.pdb
+C:\learning24\OOAП\lab8.2\lab8.2\obj\Debug\net8.0\lab8.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\learning24\OOAП\lab8.2\lab8.2\obj\Debug\net8.0\lab8.2.AssemblyInfoInputs.cache
+C:\learning24\OOAП\lab8.2\lab8.2\obj\Debug\net8.0\lab8.2.AssemblyInfo.cs
+C:\learning24\OOAП\lab8.2\lab8.2\obj\Debug\net8.0\lab8.2.csproj.CoreCompileInputs.cache
+C:\learning24\OOAП\lab8.2\lab8.2\obj\Debug\net8.0\lab8.2.dll
+C:\learning24\OOAП\lab8.2\lab8.2\obj\Debug\net8.0\refint\lab8.2.dll
+C:\learning24\OOAП\lab8.2\lab8.2\obj\Debug\net8.0\lab8.2.pdb
+C:\learning24\OOAП\lab8.2\lab8.2\obj\Debug\net8.0\lab8.2.genruntimeconfig.cache
+C:\learning24\OOAП\lab8.2\lab8.2\obj\Debug\net8.0\ref\lab8.2.dll

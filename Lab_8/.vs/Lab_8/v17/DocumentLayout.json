@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\learning24\\OOA\u041F\\Lab_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2938C363-A5F2-462D-A793-4F53BEEA4C7F}|Lab_8\\Lab_8.csproj|c:\\learning24\\ooa\u043F\\lab_8\\lab_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2938C363-A5F2-462D-A793-4F53BEEA4C7F}|Lab_8\\Lab_8.csproj|solutionrelative:lab_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\learning24\\OOA\u041F\\Lab_8\\Lab_8\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_8\\Program.cs",
+              "ToolTip": "C:\\learning24\\OOA\u041F\\Lab_8\\Lab_8\\Program.cs",
+              "RelativeToolTip": "Lab_8\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAswCEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:04:30.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

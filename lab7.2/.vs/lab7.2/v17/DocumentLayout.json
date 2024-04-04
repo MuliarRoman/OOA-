@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\learning24\\OOA\u041F\\lab7.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0914CC1C-5FFA-4054-9B00-CDEA580BDADC}|lab7.2\\lab7.2.csproj|c:\\learning24\\ooa\u043F\\lab7.2\\lab7.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0914CC1C-5FFA-4054-9B00-CDEA580BDADC}|lab7.2\\lab7.2.csproj|solutionrelative:lab7.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\learning24\\OOA\u041F\\lab7.2\\lab7.2\\Program.cs",
+              "RelativeDocumentMoniker": "lab7.2\\Program.cs",
+              "ToolTip": "C:\\learning24\\OOA\u041F\\lab7.2\\lab7.2\\Program.cs",
+              "RelativeToolTip": "lab7.2\\Program.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAmwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:55:12.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
